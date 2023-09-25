@@ -2,7 +2,7 @@ import telnetlib
 
 #host = #4001
 
-f = open('bebra.txt','r')
+f = open('ddos/bebra.txt','r')
 
 com =  f.readlines()
 

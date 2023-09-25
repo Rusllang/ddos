@@ -17,4 +17,3 @@ ip addr 192.100.4.4 255.255.255.0
 ip router isis
 exit
 exit
-exit
