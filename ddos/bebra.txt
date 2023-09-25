@@ -4,7 +4,7 @@ router isis
 net 49.0001.0000.0000.000f.00
 exit
 int f 0/0
-ip addr 192.168.2.100 255.255.255.0
+ip addr 192.168.2.2 255.255.255.0
 no sh
 exit
 int Se0/0
