@@ -2,7 +2,7 @@ import telnetlib
 
 #host = #4001
 
-f = open('C:\\bebra.txt','r')
+f = open('bebra.txt','r')
 
 com =  f.readlines()
 
